@@ -9,7 +9,7 @@ one-time password input component for the web built with svelte.
 Install my-project with npm
 
 ```bash
- npm i react-otp-input
+ npm i react-otp-inputs
 ```
 
 
