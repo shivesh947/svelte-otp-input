@@ -1,0 +1,20 @@
+.otp_input_wrapper{
+    display: flex; 
+justify-content: center; 
+gap: 0.5rem; 
+}
+.otp_input {
+width: 40px;
+height: 40px;
+text-align: center;
+}
+.otp_input {
+border: none;
+background: transparent;
+border-bottom: 2px solid #a7a7a7;
+box-shadow: none;
+font-weight: bolder;
+}
+.otp_input:focus {
+border-color: #2c5bff;
+}
